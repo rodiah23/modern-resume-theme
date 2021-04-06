@@ -77,7 +77,7 @@ footer_show_references: true
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
 # remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
-sass:
+#sass:
   sass_dir: _sass
   style: compressed
 
